@@ -1,0 +1,1 @@
+This is the C code of the A* path finding for EC527 project. Teammates are Yue Zhang and Tao Liu.
